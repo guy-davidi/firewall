@@ -41,3 +41,4 @@ File Descriptions
   The device file /dev/my_firewall_device is created with the following permissions:
 - Read and Write: Owner
 - Read: Group and Others
+
